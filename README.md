@@ -297,3 +297,7 @@ npx tsc --noEmit
 npm run build
 
 Both checks complete successfully.
+
+## Live Demo
+
+https://blackcap-course-platform.vercel.app
